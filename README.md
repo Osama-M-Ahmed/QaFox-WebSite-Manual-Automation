@@ -93,7 +93,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 ```
 
 Thanks for visiting my GitHub profile! 😊
-Roi Dvide 
+Osama Mohamed
 
 
 
