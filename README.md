@@ -45,7 +45,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Roidv1988/QafoxProject
+   git clone https://github.com/Osama-M-Ahmed/QaFox-WebSite-Manual-Automation
     ```
 
 ## 📁 Project Structure
